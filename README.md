@@ -111,3 +111,12 @@ n8n-docs is [fair-code](https://faircode.io/) licensed under the [**Sustainable 
 
 More information about the license is available in the [License documentation](https://docs.n8n.io/sustainable-use-license).
 
+## ✨ Sponsors
+
+Support the development of this project! Sponsors are recognized below automatically.
+
+<!-- sponsors:start -->
+[![Become a sponsor](https://img.shields.io/badge/Become_a-❤️_sponsor-ea4aaa?style=flat-square&logo=github)](https://github.com/sponsors/ZOOKA-AI)
+<!-- sponsors:end -->
+
+[![Sponsor ZOOKA-AI](https://img.shields.io/badge/Support-open_source-0366d6?style=flat-square&logo=github-sponsors)](https://github.com/sponsors/ZOOKA-AI)
